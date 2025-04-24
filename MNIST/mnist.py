@@ -1,3 +1,5 @@
+//使用卷积神经网络框架+pytorch
+
 #导入relevant lībraries
 import torch
 from torchvision import datasets, transforms
