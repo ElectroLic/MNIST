@@ -1,3 +1,4 @@
+//纯数学方案，不采用任何现有框架
 import pathlib
 import numpy as np
 import matplotlib.pyplot as plt
