@@ -1,4 +1,4 @@
-//纯数学方案，不采用任何现有框架
+//纯数学方案（梯度下降算法+反向传播+一层隐藏层），不采用任何现有框架
 import pathlib
 import numpy as np
 import matplotlib.pyplot as plt
